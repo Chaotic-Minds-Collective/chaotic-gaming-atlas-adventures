@@ -1,8 +1,8 @@
-# CMG ATLAS Adventures Plugin
+# CMG Adventures
 
 Quest, challenge and progression system integrated with identity, tribes, events and rewards.
 
-This Chaotic Minds Gaming (CMG)-specific plugin extends [CMG Core](https://github.com/Chaotic-Minds-Collective/chaotic-minds-gaming-atlas-core) and the [ATLAS integration adapter](https://github.com/Chaotic-Minds-Collective/chaotic-minds-gaming-atlas); it does not replace either foundation.
+This Chaotic Minds Gaming-specific module extends [Chaotic Gaming Core](https://github.com/Chaotic-Minds-Collective/chaotic-gaming-core) and the [ATLAS integration adapter](https://github.com/Chaotic-Minds-Collective/chaotic-gaming-atlas); it does not replace either foundation.
 
 ## Feature scope
 - Quest chains, objectives and prerequisites
