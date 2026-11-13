@@ -2,7 +2,7 @@
 
 Quest, challenge and progression system integrated with identity, tribes, events and rewards.
 
-This Chaotic Minds Gaming-specific module extends [Chaotic Gaming Core](https://github.com/Chaotic-Minds-Collective/chaotic-gaming-core) and the [ATLAS integration adapter](https://github.com/Chaotic-Minds-Collective/chaotic-gaming-atlas); it does not replace either foundation.
+This Chaotic Minds Gaming-specific module extends [Chaotic Minds Gaming Core](https://github.com/Chaotic-Minds-Collective/cmg-atlas-core-plugin) and the [ATLAS integration adapter](https://github.com/Chaotic-Minds-Collective/cmg-atlas-plugin); it does not replace either foundation.
 
 ## Feature scope
 - Quest chains, objectives and prerequisites
