@@ -1,4 +1,4 @@
-# CG Adventures — Implementation Plan
+# CMG Adventures — Implementation Plan
 
 ## Purpose
 Quest, challenge and progression system integrated with identity, tribes, events and rewards.
